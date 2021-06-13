@@ -1,0 +1,61 @@
+/* CSS Styles for Movie Project
+
+  Author: Mark Sweeney
+  Date: 05/11/20
+
+*/
+
+.search-message{
+  padding: 50px;
+}
+
+.page-title{
+  position: absolute;
+  text-align: left;
+  margin-left: 10%;
+
+}
+
+.movie-icon {
+  width: 30px;
+  margin-left: 5%;
+  margin-right: auto;
+}
+
+.movies-container{
+  margin-top: 20px;
+
+}
+
+.movie-poster{
+  width: 200px;
+}
+
+.movie-view-poster{
+  width: 300px;
+  padding-left: 20px;
+  padding-top:20px;
+}
+
+.movie-poster-heading{
+  padding-left: 100px;
+}
+
+.movie-data{
+  text-align: center;
+}
+
+.movie-view-title, .movie-view-details{
+  font-weight: bold;
+}
+
+.movie-details{
+  padding-top: 20px;
+  padding-right: 40px;
+  opacity: 0.9;
+}
+
+.movie-trailer{
+  padding-top: 20px;
+  padding-right: 40px;
+}
