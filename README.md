@@ -18,4 +18,4 @@ To view a showcase of this project, click the link below. This includes a detail
 ## [https://www.marksweeney.io/portfolio-of-work/trailerflix](https://www.marksweeney.io/portfolio-of-work/trailerflix)
 
 ### Sources
-A YouTube video published by [Traversy Media](https://www.youtube.com/channel/UC29ju8bIPH5as8OGnQzwJyA) was used to as a learning tool and source to help build this project. This video can be found at [https://www.youtube.com/watch?v=YsPqjYGauns](https://www.youtube.com/watch?v=YsPqjYGauns).
+A YouTube video published by [Traversy Media](https://www.youtube.com/channel/UC29ju8bIPH5as8OGnQzwJyA) was used as a learning tool and source to help build this project. This video can be found at [https://www.youtube.com/watch?v=YsPqjYGauns](https://www.youtube.com/watch?v=YsPqjYGauns).
